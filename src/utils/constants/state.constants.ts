@@ -1,1 +1,1 @@
-export const ATOM_SELECTION = "selection";
+export const ATOM_SEARCH_RESULT = "searchResult";
